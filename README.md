@@ -10,3 +10,5 @@
 
 ### structure
 
+![](https://raw.githubusercontent.com/woodinsouth/My_Raspberry/master/img/chatbot_framework.pdf)
+

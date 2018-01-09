@@ -4,7 +4,7 @@
 
 ### requirments
 
-- voicetools (see https://github.com/namco1992/voicetoolsfor  for installation and usage)
+- voicetools (see https://github.com/namco1992/voicetools  for installation and usage)
 - ALSA - arecord  (see https://linux.die.net/man/1/arecord for detailed parameter)
 - mpg321 
 - 申请百度语音和图灵机器人的API

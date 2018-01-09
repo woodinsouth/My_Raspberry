@@ -10,4 +10,3 @@
 
 ### structure
 
-![Untitled Diagram-2](/Users/caorunnan/Downloads/Untitled Diagram-2.png) 
